@@ -1,0 +1,43 @@
+header {
+  background-color:white;
+  padding: 5px;
+  text-shadow: 2px 2px 5px  cadetblue;
+
+}
+header > img {
+   width: 100px;
+   height: 100px; 
+
+}
+header > h1 {
+  text-align: center;
+  color:black;
+
+}
+* {
+  font-family:  Georgia, 'Times New Roman', Times, serif;
+}
+body {
+  background-color: white;
+  
+}
+#sobre {
+  max-width: 300px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  float: left;
+  box-shadow: 3px 3px 5px  black;
+  background:white;
+  border-radius: 8px;
+ 
+}
+#habi {
+  max-width: 900px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  float: right;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 3px 3px 5px  black;
+
+}
